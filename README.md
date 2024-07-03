@@ -2,9 +2,9 @@
 
 Meu nome é Ana Julia Favero
 
-Estou estudandoi na Alura
-Estou me desenvolvendo na liunguagem Javascript
-Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Estou estudando na Alura
+- Estou me desenvolvendo na liunguagem Javascript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ###você entrar em contato comigo 📫
 

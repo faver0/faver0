@@ -1,6 +1,6 @@
-## Hi there 👋
+## bem vindo ao meu perfil💋
 
-Meu nome é Ana Julia Favero
+Meu nome é Ana Julia Favero 
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na liunguagem Javascript

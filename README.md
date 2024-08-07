@@ -1,10 +1,17 @@
-## bem vindo ao meu perfil💋
+## welcome to my profile💋
 
-Meu nome é Ana Julia Favero 
+🌻my name is Ana julia favero
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na liunguagem Javascript
-- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+🍒-i'm studying in alura
+🌙- i love pizza 🍕
+🥂- ponums: she/her
+🥳-14 years 
+🗓️-11/09
+🇧🇷-pr|| 2 0  0 9
+🫀- ilm
+
+               
+                                                       ✝️
 
 ###você entrar em contato comigo 📫
 
